@@ -1,4 +1,4 @@
-# namer_app
+# Namer app
 
 A new Flutter project.
 
